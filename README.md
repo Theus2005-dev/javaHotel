@@ -1,0 +1,2 @@
+# javaHotel
+projeto facultativo. 
